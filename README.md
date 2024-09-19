@@ -3,7 +3,7 @@
 <p align='center'>
   
 </p>
-  <div size='20px'>I am a <b>FullStack Data Scienctis/Web Developer</b>, <b>Open-Source</b>, and <b>DevOps</b> enthusiast. I love to write <b>Technical Blogs</b>, and <b>Learn In Public</b>
+  <div size='20px'>I am a <b>FullStack Data Scienctis/Web Developer</b>, <b>Open-Source</b>, and <b>Data Science</b> enthusiast. I love to write <b>Technical Blogs</b>, and <b>Learn In Public</b>
 </div>
   <h6>
 🟠 Hungry😋 for More📚 Knowledge 🤠
@@ -18,7 +18,7 @@
 - 🤝 I'm also a contributor at [ReactPlay](https://reactplay.io/), a playground for React developers.
 - 💻 I'm always eager to learn new things and improve my skills, so I'm currently exploring Next JS, Machine Learning, and other topics that interest me.
 - 📝 I also enjoy technical writing and sharing my knowledge with others.
-- :handshake: I'm always open to new opportunities and collaborations, so feel free to reach out to me at <a href="mailto:katare27451@gmail.com" target="_blank"> my email </a>.
+- :handshake: I'm always open to new opportunities and collaborations, so feel free to reach out to me at <a href="mailto:faizh1512@gmail.com" target="_blank"> my email </a>.
 - 🤗 I always enjoy talking about community, events, hackathons, and technology You can know more about my professional experience.
 - 🏫 I have a degree in computer science and in my spare time, I like to watch shows and draw sketches.
 
