@@ -1,18 +1,18 @@
 <!-- ================= HEADER BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:16213E,100:1C2740&height=220&section=header&text=Faiz%20Hassan%20Mughal&fontSize=46&fontColor=F5A524&animation=fadeIn&fontAlignY=38&desc=FullStack%20AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Web%20Developer&descAlignY=58&descSize=18&descColor=35C7C0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:16213E,100:1C2740&height=220&section=header&text=Faiz%20Hassan%20Mughal&fontSize=46&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=FullStack%20AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Web%20Developer&descAlignY=58&descSize=18&descColor=35C7C0" width="100%"/>
 </p>
 
 <!-- ================= TYPING INTRO ================= -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=F5A524&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+with+LangChain+%26+LangGraph;Shipping+RAG+pipelines+and+fine-tuned+LLMs;FullStack+dev+by+habit%2C+data+scientist+by+trade;Always+learning+%E2%80%94+always+in+public" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+with+LangChain+%26+LangGraph;Shipping+RAG+pipelines+and+fine-tuned+LLMs;FullStack+dev+by+habit%2C+data+scientist+by+trade;Always+learning+%E2%80%94+always+in+public" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=35C7C0&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/status-open_to_work-F5A524?style=flat" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/status-open_to_work-38BDF8?style=flat" alt="Open to work"/>
 </p>
 
 <br>
@@ -104,21 +104,6 @@
 <p align="left">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-</p>
-
-<br>
-
-<!-- ================= STATS ================= -->
-## 📊 GitHub Stats
-
-<!-- Replace YOUR_GITHUB_USERNAME in the 3 image URLs below with your real GitHub username -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&height=165" alt="Activity Graph"/>
 </p>
 
 <br>
