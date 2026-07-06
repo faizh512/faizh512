@@ -10,11 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=35C7C0&style=flat" alt="Profile views"/>
-</p>
-
-<br>
 
 <!-- ================= ABOUT ================= -->
 ## 🧑‍💻 About Me
